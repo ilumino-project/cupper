@@ -2,36 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ilumino Pattern Library</title>
-    <link>https://ilumino-project.github.io/cupper/</link>
+    <link>https://ilumino.ngrok.io/</link>
     <description>Recent content on ilumino Pattern Library</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ilumino-project.github.io/cupper/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ilumino.ngrok.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cupper</title>
-      <link>https://ilumino-project.github.io/cupper/print-version/</link>
+      <link>https://ilumino.ngrok.io/print-version/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ilumino-project.github.io/cupper/print-version/</guid>
+      <guid>https://ilumino.ngrok.io/print-version/</guid>
       <description>You don&amp;rsquo;t want to edit this file :-)</description>
     </item>
     
     <item>
-      <title>My First Pattern File</title>
-      <link>https://ilumino-project.github.io/cupper/patterns/pattern/</link>
+      <title>Fieldset</title>
+      <link>https://ilumino.ngrok.io/patterns/forms/fieldset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ilumino-project.github.io/cupper/patterns/pattern/</guid>
-      <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
-   Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation. 231
-  </description>
+      <guid>https://ilumino.ngrok.io/patterns/forms/fieldset/</guid>
+      <description>Making forms accessible is a simple process. Each form element should be associated with its instructions and errors, and everything should be accessible via the keyboard.
+How to test  Identify each form element. Find all instructions associated with each element.  It is a failure if a form element isn’t programatically associated with all instructions. This includes legends, labels, hint text and tooltips. A common way of achieving this is using fieldset and legend tags.</description>
     </item>
     
     <item>
       <title>Page titles</title>
-      <link>https://ilumino-project.github.io/cupper/patterns/page-title/</link>
+      <link>https://ilumino.ngrok.io/patterns/page-title/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ilumino-project.github.io/cupper/patterns/page-title/</guid>
+      <guid>https://ilumino.ngrok.io/patterns/page-title/</guid>
       <description>Page titles are important because they help a user navigate their browser. Most users have multiple tabs open at once. It’s easier to jump between pages if each page title is unique. It’s also helpful to have the unique portion first, usually the name of the page.
 How to testing Check that the title shown in the tab for the page is unique and describes the page accurately.
  The title should be in plain English or user&amp;rsquo;s language of selection.</description>

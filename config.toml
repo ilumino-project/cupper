@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "ilumino Pattern Library"
-baseURL = "https://ilumino-project.github.io/cupper/"
+baseURL = "https://ilumino.ngrok.io"
 canonifyURLs = true
 theme = "ilumino"
 publishDir = "docs"

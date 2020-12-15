@@ -3,51 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/guidelines/2.4.2/</loc>
+    <loc>https://ilumino.ngrok.io/guidelines/2.4.2/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/tags/another-tag/</loc>
+    <loc>https://ilumino.ngrok.io/guidelines/3.3.1/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/print-version/</loc>
+    <loc>https://ilumino.ngrok.io/guidelines/3.3.2/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/tags/example-tag/</loc>
+    <loc>https://ilumino.ngrok.io/principles/consider-situation/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/guidelines/</loc>
+    <loc>https://ilumino.ngrok.io/print-version/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/</loc>
+    <loc>https://ilumino.ngrok.io/patterns/forms/fieldset/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/patterns/pattern/</loc>
+    <loc>https://ilumino.ngrok.io/tags/form/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/patterns/page-title/</loc>
+    <loc>https://ilumino.ngrok.io/patterns/forms/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/patterns/</loc>
+    <loc>https://ilumino.ngrok.io/guidelines/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/principles/</loc>
+    <loc>https://ilumino.ngrok.io/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/tags/</loc>
+    <loc>https://ilumino.ngrok.io/patterns/page-title/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/tags/title/</loc>
+    <loc>https://ilumino.ngrok.io/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino.ngrok.io/principles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino.ngrok.io/principles/provide-comparable-experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino.ngrok.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino.ngrok.io/tags/title/</loc>
   </url>
   
 </urlset>

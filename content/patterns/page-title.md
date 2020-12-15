@@ -8,6 +8,7 @@ Page titles are important because they help a user navigate their browser. Most 
 
 ## How to testing
 Check that the title shown in the tab for the page is unique and describes the page accurately.
+
 * The title should be in plain English or user's language of selection.
 * The title should describe the web site as well as the specific page being displayed by the site.
 
@@ -16,9 +17,7 @@ Check that the title shown in the tab for the page is unique and describes the p
 <title>Page Titles | ilumino Pattern Library</title>
 ```
 
+The title for this page is ‘Page Titles | ilumino Pattern Library’. The first half is the name of this page and the second is the name of the site.
+
 ## WCAG 2.1 guidelines
 {{% wcag include="2.4.2" descriptions="true" labelledby="wcag-2-1-guidelines" %}}
-
-{{% note %}}
-The title for this page is ‘Page Titles | ilumino Pattern Library’. The first half is the name of this page and the second is the name of the site.
-{{% /note %}}
