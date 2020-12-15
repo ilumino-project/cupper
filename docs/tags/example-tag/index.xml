@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>example tag on Ilumino Pattern Library</title>
+    <title>example tag on ilumino Pattern Library</title>
     <link>https://ilumino-project.github.io/cupper/tags/example-tag/</link>
-    <description>Recent content in example tag on Ilumino Pattern Library</description>
+    <description>Recent content in example tag on ilumino Pattern Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ilumino-project.github.io/cupper/tags/example-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,8 @@
       
       <guid>https://ilumino-project.github.io/cupper/patterns/pattern/</guid>
       <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
-Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation.</description>
+   Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation. 231
+  </description>
     </item>
     
   </channel>

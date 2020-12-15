@@ -1,10 +1,18 @@
 languageCode = "en-us"
-title = "Ilumino Pattern Library"
+title = "ilumino Pattern Library"
 baseURL = "https://ilumino-project.github.io/cupper/"
 canonifyURLs = true
-theme = "cupper"
+theme = "ilumino"
 publishDir = "docs"
 
 [params]
-  description = "Documentation for the **Ilumino Pattern Library** documentation builder, built with **Cupper**."
+  description = "Documentation for the **ilumino Pattern Library** documentation builder, built with **Cupper**."
   codePenUser = "desjardy"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[taxonomies]
+  tag = "tags"
+  guideline = "guidelines"
+  principle = "principles"

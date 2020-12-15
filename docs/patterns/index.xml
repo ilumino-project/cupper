@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patterns on Ilumino Pattern Library</title>
+    <title>Patterns on ilumino Pattern Library</title>
     <link>https://ilumino-project.github.io/cupper/patterns/</link>
-    <description>Recent content in Patterns on Ilumino Pattern Library</description>
+    <description>Recent content in Patterns on ilumino Pattern Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ilumino-project.github.io/cupper/patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,19 @@
       
       <guid>https://ilumino-project.github.io/cupper/patterns/pattern/</guid>
       <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
-Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation.</description>
+   Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation. 231
+  </description>
+    </item>
+    
+    <item>
+      <title>Page titles</title>
+      <link>https://ilumino-project.github.io/cupper/patterns/page-title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilumino-project.github.io/cupper/patterns/page-title/</guid>
+      <description>Page titles are important because they help a user navigate their browser. Most users have multiple tabs open at once. It’s easier to jump between pages if each page title is unique. It’s also helpful to have the unique portion first, usually the name of the page.
+How to testing Check that the title shown in the tab for the page is unique and describes the page accurately.
+ The title should be in plain English or user&amp;rsquo;s language of selection.</description>
     </item>
     
   </channel>

@@ -1,0 +1,19 @@
+{{ define "title" }}
+  Patterns guidelined {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+  <main id="main">
+    <h1>
+      <svg class="wcag-icon" viewBox="0 0 127.09899 67.763"
+           aria-hidden="true" focusable="false">
+        <use xlink:href="#w3c"></use>
+      </svg>
+      Guideline &#x201c;{{ .Title }}&#x201d;
+    </h1>
+    <ul class="patterns-list">
+      {{ range .Data.Pages }}
+          {{ .Render "li"}}
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}

@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/tags/another-tag/</loc>
+    <loc>https://ilumino-project.github.io/cupper/guidelines/2.4.2/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/categories/</loc>
+    <loc>https://ilumino-project.github.io/cupper/tags/another-tag/</loc>
   </url>
   
   <url>
@@ -19,7 +19,19 @@
   </url>
   
   <url>
+    <loc>https://ilumino-project.github.io/cupper/guidelines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino-project.github.io/cupper/</loc>
+  </url>
+  
+  <url>
     <loc>https://ilumino-project.github.io/cupper/patterns/pattern/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilumino-project.github.io/cupper/patterns/page-title/</loc>
   </url>
   
   <url>
@@ -27,11 +39,15 @@
   </url>
   
   <url>
+    <loc>https://ilumino-project.github.io/cupper/principles/</loc>
+  </url>
+  
+  <url>
     <loc>https://ilumino-project.github.io/cupper/tags/</loc>
   </url>
   
   <url>
-    <loc>https://ilumino-project.github.io/cupper/</loc>
+    <loc>https://ilumino-project.github.io/cupper/tags/title/</loc>
   </url>
   
 </urlset>
