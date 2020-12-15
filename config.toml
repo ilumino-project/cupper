@@ -1,10 +1,18 @@
 languageCode = "en-us"
-title = "Cupper"
-baseURL = "https://thepaciellogroup.github.io/cupper/"
+title = "ilumino Pattern Library"
+baseURL = "https://ilumino.ngrok.io"
 canonifyURLs = true
-theme = "cupper"
+theme = "ilumino"
 publishDir = "docs"
 
 [params]
-  description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
-  codePenUser = "Heydon"
+  description = "Documentation for the **ilumino Pattern Library** documentation builder, built with **Cupper**."
+  codePenUser = "desjardy"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[taxonomies]
+  tag = "tags"
+  guideline = "guidelines"
+  principle = "principles"

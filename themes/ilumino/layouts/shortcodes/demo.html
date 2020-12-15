@@ -1,0 +1,9 @@
+{{ $uniq := .Inner | htmlEscape | md5 | lower }}
+<figure role="group" aria-labelledby="caption-{{ $uniq }}">
+  {{ .Inner }}
+  <figcaption id="caption-{{ $uniq }}">
+    ```html
+      {{ .Inner }}
+    ```
+  </figcaption>
+</figure>

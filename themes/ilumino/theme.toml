@@ -1,0 +1,16 @@
+name = "ilumino"
+description = ""
+homepage = "https://ilumino.co/"
+tags = ["inclusive design", "accessibility"]
+min_version = 0.1
+
+SectionPagesMenu = "main"
+
+[author]
+  name = "Yan Desjardins"
+  homepage = "https://decibels.ca"
+
+[taxonomies]
+  tag = "tags"
+  guideline = "guidelines"
+  principle = "principles"

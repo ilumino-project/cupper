@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on ilumino Pattern Library</title>
+    <link>https://ilumino.ngrok.io/patterns/forms/</link>
+    <description>Recent content in Forms on ilumino Pattern Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ilumino.ngrok.io/patterns/forms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fieldset</title>
+      <link>https://ilumino.ngrok.io/patterns/forms/fieldset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilumino.ngrok.io/patterns/forms/fieldset/</guid>
+      <description>Making forms accessible is a simple process. Each form element should be associated with its instructions and errors, and everything should be accessible via the keyboard.
+How to test  Identify each form element. Find all instructions associated with each element.  It is a failure if a form element isn’t programatically associated with all instructions. This includes legends, labels, hint text and tooltips. A common way of achieving this is using fieldset and legend tags.</description>
+    </item>
+    
+  </channel>
+</rss>
